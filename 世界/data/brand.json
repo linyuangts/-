@@ -1,0 +1,67 @@
+{
+    "title": "品牌推荐",
+    "bg": "https://static.gcimg.net/i/201804/bEm2vupL35.png",
+    "list": [
+        {
+            "link": "https://pinpai.gongchang.com/show/148209/",
+            "img_url": "https://img020.gcimg.net/201806/20/17/170431518409108.png",
+            "alt": "管家婆"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/148077/",
+            "img_url": "https://img020.gcimg.net/201806/06/11/111829853752502.jpg",
+            "alt": "银翔"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/148016/",
+            "img_url": "https://img020.gcimg.net/201805/30/17/172034658400761.jpg",
+            "alt": "KSSEYE"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147201/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171116/763e982a49ddf8a9329b5286202e2243.jpg",
+            "alt": "正达磁电"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147195/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171116/230507d72a3787910433ca5bbfed3a93.jpg",
+            "alt": "奔阳"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147180/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171115/01eb7d28de52673ff5b1261663d0536a.jpg",
+            "alt": "天阳"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147040/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171111/79354e69081f03c890275c0e9075f455.jpg",
+            "alt": "汉晟"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147031/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171110/bfb802c5d4d229ed5e0f11fca201fe5d.jpg",
+            "alt": "日本三丰"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/147027/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171110/1a3f0c636d9e86712fe74bafb868a70b.jpg",
+            "alt": "众金粉体"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/146992/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171110/9c261d0bce398ac96183d5fcd11e3517.jpg",
+            "alt": "Gospelwin"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/146761/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171103/64058da7a2964da9993c7ff395be6fea.jpg",
+            "alt": "GRI"
+        },
+        {
+            "link": "https://pinpai.gongchang.com/show/146849/",
+            "img_url": "https://img10.cn.gcimg.net/gcwvthird/day_20171106/2fe6e395b05f67c9054facc6eed627bc.jpg",
+            "alt": "富乐"
+        }
+    ]
+}
+
